@@ -3,14 +3,33 @@
   margin: 0 auto;
   padding: 20px;
   text-align: center;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  
+  
   
 }
 .mainheading{
   color: #333;
+  font-family: 'Monoton', cursive;
+  font-size:80px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin-bottom: 10px;
+  font-weight: 900;
+  font-style: italic;
 }
 .para{
   color: #666;
+  font-family: 'Monoton', cursive;
+  font-size:40px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  text-decoration: underline;
 }
+
+
+
 .button{
   background-color: #007bff;
   color: #fff;
