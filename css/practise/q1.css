@@ -7,6 +7,7 @@
   color:red;
   text-align:center;
   text-decoration:rgb(248, 4, 4) dotted underline;font-family: Arial, sans-serif;
+  text-transform:uppercase;
 }
 button{
   background-color: green;
@@ -21,4 +22,5 @@ p{
   color:aliceblue;
   text-decoration:dotted underline;
   text-decoration:dotted overline;
+  text-transform:none;
 }

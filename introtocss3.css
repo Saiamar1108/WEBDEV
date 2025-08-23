@@ -7,9 +7,8 @@
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 20px;
-  
-  
-  
+  margin: 79px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 .mainheading{
   color: #333;
