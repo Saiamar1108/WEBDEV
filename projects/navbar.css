@@ -1,0 +1,44 @@
+*{
+  padding:0px;
+  margin:0px;
+  color:white;
+  
+
+}
+.navbar{
+  height:60px;
+  background-color:black;
+
+
+}
+#home{
+  color:orange;
+  text-decoration:none;
+  font-size:25px;
+  
+
+
+
+}
+#account{
+  text-decoration:none;
+  color:white;
+  
+  
+}
+#cart{
+  text-decoration:none;
+  color:white;
+  
+
+}
+a{
+  margin-right:200px;
+  text-decoration:none;
+  color:white;
+}
+#contact{text-decoration:none;
+  color:white;
+  padding-right:200px;
+}
+
