@@ -6,5 +6,18 @@ div{
   display: inline-block;
 }
 .box1{
-  position: static;
+  position: relative;
+  top: 10px;
+}
+.box2{
+  position: relative;
+  top: 20px;
+}
+.box3{
+  position: relative;
+  top: 30px;
+}
+.box4{
+  position: relative;
+  top: 40px;
 }
