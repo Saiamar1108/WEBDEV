@@ -12,12 +12,17 @@ div{
 .box2{
   position: relative;
   top: 20px;
+  left: 20px;
 }
 .box3{
-  position: relative;
-  top: 30px;
+  position: sticky;
+  top: 0px;
+  left: 20px;
+  z-index: 1;
 }
 .box4{
-  position: relative;
-  top: 40px;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+
 }
