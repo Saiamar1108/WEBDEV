@@ -1,0 +1,9 @@
+div{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  border: 1px solid black;
+  display: inline-block;
+  position: fixed;
+  right: 10px;
+}
