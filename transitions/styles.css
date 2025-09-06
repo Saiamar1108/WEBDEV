@@ -1,0 +1,24 @@
+div{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  transition-timing-function: ease-out;
+  transition-duration:   2s;
+  
+}
+div:hover{
+  background-color: blue;
+  
+  transform: scale(1.014);
+
+
+  transform: translateY(1000px);
+  transform:skew(90deg);
+
+}
+div:active{
+  background-color: green;
+  transition: background-color 0.1s;
+  transform: scale(0.8);
+  rotate: y -20deg;
+}

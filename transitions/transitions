@@ -1,0 +1,25 @@
+transition 
+1.transition-property
+2.transition-duration
+3.transition-timing-funtion
+4.transition-delay 
+
+tranform -skew 
+transform-scale
+transform-translate
+transform-rotate 
+
+
+Animation
+@keyframe myname{
+  from{font-size:20px}
+  to{font-size:40px}
+}
+
+animation properties
+animation-name
+animation-duration
+animation-timing
+animation-delay
+animation-iteration-count
+animation-direction
