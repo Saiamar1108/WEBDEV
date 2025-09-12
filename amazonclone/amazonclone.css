@@ -11,13 +11,25 @@
 
 }
 .nav-logo{
-  height:50px;
+  height: 40px; 
   width: 114px;
+  padding-top:10px
 }
 .logo {
-  background-image: url("/assets/amazon_logo (1).png");
-  height: 49px;
-  width: 100px;
-  background-size: contain; /* optional, makes image fit */
-  background-repeat: no-repeat; /* optional, prevents tiling */
+  background-image: url("https://pngimg.com/uploads/amazon/amazon_PNG11.png");
+  background-size: cover;
+  height: 35px;
+  width: 100%;
+  
+  
+  
+  
+}
+.border{
+  border:2px solid transparent;
+
+}
+.border:hover{
+  border:2px solid white;
+  border-radius:5px;
 }
